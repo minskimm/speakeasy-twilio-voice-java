@@ -1,0 +1,11 @@
+# ListDialingPermissionsCountryListDialingPermissionsCountryResponse
+
+OK
+
+
+## Fields
+
+| Field                                                                                                                                      | Type                                                                                                                                       | Required                                                                                                                                   | Description                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| `content`                                                                                                                                  | List\<[VoiceV1DialingPermissionsDialingPermissionsCountry](../../models/components/VoiceV1DialingPermissionsDialingPermissionsCountry.md)> | :heavy_minus_sign:                                                                                                                         | N/A                                                                                                                                        |
+| `meta`                                                                                                                                     | [Optional\<ListDialingPermissionsCountryMeta>](../../models/operations/ListDialingPermissionsCountryMeta.md)                               | :heavy_minus_sign:                                                                                                                         | N/A                                                                                                                                        |

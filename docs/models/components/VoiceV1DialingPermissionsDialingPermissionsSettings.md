@@ -1,0 +1,9 @@
+# VoiceV1DialingPermissionsDialingPermissionsSettings
+
+
+## Fields
+
+| Field                                                                                                        | Type                                                                                                         | Required                                                                                                     | Description                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| `dialingPermissionsInheritance`                                                                              | *JsonNullable\<Boolean>*                                                                                     | :heavy_minus_sign:                                                                                           | `true` if the sub-account will inherit voice dialing permissions from the Master Project; otherwise `false`. |
+| `url`                                                                                                        | *JsonNullable\<String>*                                                                                      | :heavy_minus_sign:                                                                                           | The absolute URL of this resource.                                                                           |

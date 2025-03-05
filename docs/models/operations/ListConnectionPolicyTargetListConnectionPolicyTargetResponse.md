@@ -1,0 +1,11 @@
+# ListConnectionPolicyTargetListConnectionPolicyTargetResponse
+
+OK
+
+
+## Fields
+
+| Field                                                                                                                            | Type                                                                                                                             | Required                                                                                                                         | Description                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| `targets`                                                                                                                        | List\<[VoiceV1ConnectionPolicyConnectionPolicyTarget](../../models/components/VoiceV1ConnectionPolicyConnectionPolicyTarget.md)> | :heavy_minus_sign:                                                                                                               | N/A                                                                                                                              |
+| `meta`                                                                                                                           | [Optional\<ListConnectionPolicyTargetMeta>](../../models/operations/ListConnectionPolicyTargetMeta.md)                           | :heavy_minus_sign:                                                                                                               | N/A                                                                                                                              |

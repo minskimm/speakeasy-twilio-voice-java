@@ -1,0 +1,9 @@
+# UpdateByocTrunkRequest
+
+
+## Fields
+
+| Field                                                                                                                | Type                                                                                                                 | Required                                                                                                             | Description                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| `sid`                                                                                                                | *String*                                                                                                             | :heavy_check_mark:                                                                                                   | The Twilio-provided string that uniquely identifies the BYOC Trunk resource to update.                               |
+| `requestBody`                                                                                                        | [Optional\<UpdateByocTrunkUpdateByocTrunkRequest>](../../models/operations/UpdateByocTrunkUpdateByocTrunkRequest.md) | :heavy_minus_sign:                                                                                                   | N/A                                                                                                                  |

@@ -1,0 +1,8 @@
+# UpdateDialingPermissionsSettingsUpdateDialingPermissionsSettingsRequest
+
+
+## Fields
+
+| Field                                                                                                       | Type                                                                                                        | Required                                                                                                    | Description                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `dialingPermissionsInheritance`                                                                             | *Optional\<Boolean>*                                                                                        | :heavy_minus_sign:                                                                                          | `true` for the sub-account to inherit voice dialing permissions from the Master Project; otherwise `false`. |
